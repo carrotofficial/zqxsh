@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    text-align: center;
+}
+nav {
+    background-color: #444444;
+    color: #bbbbbb;
+}
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+}
